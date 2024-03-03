@@ -1,4 +1,4 @@
-# Project Title: Sleep Disorder Data Exploration App
+# Sleep Disorder Data Exploration App
 
 ## Project Context:
 In the realm of data science, the emergence of data apps revolutionized how teams handled data-intensive tasks. These apps served as bridges, transforming complex data analyses into user-friendly interfaces accessible to various departments like marketing, sales, and business teams. This project aimed to harness my advanced Python skills to create a data app tailored for educational purposes.
